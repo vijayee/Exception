@@ -1,0 +1,14 @@
+{
+  "packages": [
+    "Exception"
+  ],
+  "info": {
+    "description": "Exceptions that track errors and line numbers for pony",
+    "homepage": "https://github.com/vijayee/Exception",
+    "license": "GPLv3",
+    "version": "0.0.1",
+    "name": "Exception"
+  },
+  "deps": [
+  ]
+}
